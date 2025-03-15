@@ -18,32 +18,29 @@ The visualizations were made with a simple tkinter canvas. The actual process of
 </ul>
 
 <br><hr>
+
 <h2>How to use</h2>
 
 <b>Requirements</b>
-- python 3.x
 
-<img src="./assets/img.png" alt="Image">
+-   python 3.x
+
+<img src="./assets/demo.gif" alt="Project Demo">
 
 It starts on an empty 30 by 50 maze.
-- The green box represents the start position. You can change it by clicking on it.
 
-- The red box represents the goal position. You can change it by clicking on it.
+-   The green box represents the start position. You can change it by clicking on it.
 
-- To draw obstacles click on an empty area anywhere on the maze, move mouse around to draw obstacles(represented by white) then click again to stop drawing.
+-   The red box represents the goal position. You can change it by clicking on it.
 
-- To erase obstacles right click on an empty area anywhere on the maze, move mouse around to erase obstacles then click again to stop erasing.
+-   To draw obstacles click on an empty area anywhere on the maze, move mouse around to draw obstacles(represented by white) then click again to stop drawing.
 
-- You can specify the algorithm to use by changing the drop down list at the top.
+-   To erase obstacles right click on an empty area anywhere on the maze, move mouse around to erase obstacles then click again to stop erasing.
 
-- Hit &lt;spacebar> to start the path finding.
+-   You can specify the algorithm to use by changing the drop down list at the top.
 
-- The pink boxes are the boxes that were explored when finding path and the yellow boxes trail is the path
+-   Hit &lt;spacebar> to start the path finding.
 
-- After its done hit &lt;backspace> to reset maze.
+-   The pink boxes are the boxes that were explored when finding path and the yellow boxes trail is the path
 
-
-<video src="./assets/video.mp4" width="700" controls>
-
-
-
+-   After its done hit &lt;backspace> to reset maze.
