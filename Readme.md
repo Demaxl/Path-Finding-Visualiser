@@ -25,7 +25,8 @@ The visualizations were made with a simple tkinter canvas. The actual process of
 
 -   python 3.x
 
-<img src="./assets/demo.gif" alt="Project Demo">
+<!-- <img src="./assets/demo.gif" alt="Project Demo"> -->
+<img src="https://cdn.statically.io/gh/Demaxl/Path-Finding-Visualiser/main/assets/demo.gif" alt="Project Demo">
 
 It starts on an empty 30 by 50 maze.
 
